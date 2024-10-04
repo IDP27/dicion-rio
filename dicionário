@@ -1,0 +1,7 @@
+dados = {}
+
+dados ['nome'] = str(input('Digite o seu nome!:'))
+dados  ['número'] = int(input('Digite o seu número!:'))   
+dados ['email'] = str(input('Digite o seu e-mail!:'))
+
+print(dados)
